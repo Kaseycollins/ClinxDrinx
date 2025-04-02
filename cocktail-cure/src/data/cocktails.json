@@ -1,0 +1,28 @@
+{
+  "cocktails": [
+    {
+      "name": "Cinnamon Maple Sour",
+      "alcohol": "Whiskey",
+      "ingredients": [
+        "Whiskey",
+        "Lemon Juice",
+        "Maple Syrup",
+        "Cinnamon"
+      ],
+      "difficulty": "Medium",
+      "instructions": "Shake all ingredients with ice, strain into a rocks glass, garnish with cinnamon stick."
+    },
+    {
+      "name": "Tropical Matcha Punch",
+      "alcohol": "Rum",
+      "ingredients": [
+        "White Rum",
+        "Pineapple Juice",
+        "Matcha",
+        "Coconut Water"
+      ],
+      "difficulty": "Hard",
+      "instructions": "Shake all ingredients with ice, strain into tall glass over ice, garnish with pineapple slice."
+    }
+  ]
+}
